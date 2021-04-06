@@ -1,0 +1,15 @@
+body {
+    background-color: mediumblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16pt;
+}
+
+.gtr {
+    background-color: mintcream;
+    max-width: 600px;
+}
+
+img {
+    float: right;
+    margin: 0 0 1em 1em;
+}

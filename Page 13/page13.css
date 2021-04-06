@@ -1,0 +1,37 @@
+body {
+    background-color: silver;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.clearfix {
+    overflow: auto;
+    border: teal;
+    border-style: solid;
+    font-size: 14pt;
+    align-content: center;
+}
+
+article img {
+    float: right;
+    width: 50%;
+}
+
+.container {
+    position: relative;
+    border: black;
+    border-style: solid;
+    overflow: auto;
+}
+
+nav {
+    float: left;
+    width: 25%;
+    border: black ;
+    border-style: solid;
+}
+
+section {
+    margin-left: 25.5%;
+    border: black;
+    border-style: solid;
+}

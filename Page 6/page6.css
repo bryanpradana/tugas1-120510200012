@@ -1,0 +1,27 @@
+body {
+    background-color: thistle;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.simple {
+    font-size: 32px;
+    text-align: center;
+    width: 360px;
+    margin: 10px auto;
+    border: wheat;
+    border-style: dotted;
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}
+
+.fancy {
+    font-size: smaller;
+    width: 360px;
+    margin: 10px auto;
+    padding: 50px;
+    border: solid aliceblue 7px;
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}

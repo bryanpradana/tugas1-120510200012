@@ -1,0 +1,30 @@
+body {
+    background-color: tan;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 10pt
+}
+
+.container {
+    position: relative;
+    border: white;
+    border-style: solid;
+}
+
+nav {
+    display: inline-block;
+    vertical-align: top;
+    width: 25%;
+    border: white;
+    border-style: solid;
+}
+
+.column {
+    display: inline-block;
+    vertical-align: top;
+    width: 75%;
+}
+
+section {
+    border: white ;
+    border-style: solid;
+}

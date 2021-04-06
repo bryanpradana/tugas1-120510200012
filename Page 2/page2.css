@@ -1,0 +1,26 @@
+body {
+    background-color: darkkhaki;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: 900;
+}
+
+div {
+    font-size:16px ;
+}
+
+span1 {
+    visibility: hidden;
+}
+
+p {
+    text-align: right;
+    font-style: italic;
+}
+
+span2 {
+    font-weight: 700;
+}

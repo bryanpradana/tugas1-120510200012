@@ -1,0 +1,43 @@
+body {
+    background-color: navajowhite;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 300px;
+}
+
+h1 {
+    font-size: 36pt;
+    font-weight: 500;
+}
+
+.container {
+    border: navy;
+    border-style: solid;
+    overflow: auto;
+    position: relative;
+}
+
+nav {
+    float: left;
+    width: 200px;
+    border: sienna;
+    border-style: solid;
+}
+  
+section {
+    margin-left: 250px;
+    border: sienna;
+    border-style: solid;
+}
+
+footer {
+    position: fixed;
+    width: 100%;
+    background-color:silver ;
+    height: 200px;
+    bottom: 0;
+    left: 0;
+    border:darkred ;
+    border-style: solid;
+    text-align: center;
+    font-size: xx-large;
+}

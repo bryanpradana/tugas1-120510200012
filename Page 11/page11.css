@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: mediumseagreen;
+}
+
+h1 {
+    font-size: 48pt;
+    font-weight: 500;
+    text-align: center;
+}
+
+.clearfix {
+    overflow: auto;
+    border: midnightblue;
+    border-style: solid;
+    margin: 1em;
+}
+
+img {
+    float: right;
+}

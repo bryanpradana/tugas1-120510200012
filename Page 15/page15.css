@@ -1,0 +1,48 @@
+body {
+    background-color: floralwhite;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.box {
+    float: left;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border: gold;
+    border-style: solid;
+    text-align: center;
+}
+
+.after-box {
+    clear: left;
+    text-align: center;
+    font-style: italic;
+    border: teal;
+    border-style: solid;
+}
+
+h1 {
+    font-size: xx-large;
+    text-align: center;
+}
+
+span {
+    font-weight: bold;
+}
+
+.box2 {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border: slategray;
+    border-style: solid;
+    text-align: center;
+}
+
+section {
+    text-align: center;
+    font-style: italic;
+    border: springgreen;
+    border-style: dotted;
+}

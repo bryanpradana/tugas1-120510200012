@@ -1,0 +1,35 @@
+body {
+    background-color: navajowhite;
+    font-size: 12pt;
+}
+
+.box1 {
+    float: left;
+    text-align: center;
+    width: 250px;
+    height: 150px;
+    margin: 1em;
+    border: navy;
+    border-style: groove;
+}
+
+section {
+    margin-top: 2em;
+    border: indigo;
+    border-style: double;
+}
+
+.box2 {
+    float: left;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    text-align: center;
+    border: firebrick;
+    border-style: groove;
+  }
+  .after-box {
+    clear: left;
+    border: lightcoral;
+    border-style: groove;
+  }

@@ -1,0 +1,16 @@
+body {
+    background-color: darkseagreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    font-size: 24px;
+    font-style: italic;
+    text-align: center;
+}
+
+#main {
+    width: 600px;
+    margin: 0 auto; 
+    text-align: justify;
+}
